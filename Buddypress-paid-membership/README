@@ -1,0 +1,32 @@
+=== Plugin Name ===
+Contributors: chrsgrrtt
+Donate link: http://abstraktion.co.uk
+Tags: membership, payments, paypal, buddypress, social
+Requires at least: 0.1
+Tested up to: 0.1
+Stable tag: 0.1
+
+Buddypress Paid Membership does what it says on the tin, adds "premium" account functionality to Buddypress.
+
+== Description ==
+
+With Paid Membership you can add as many "account types" as you like, all with different cost implications. You can set the frequency of recurring payments (monthly or annually) and receive payments via Paypal's NVP API.
+
+Speaking of which, all payment processing is done invisibly on your Buddypress website, no need to send the user off to Paypal and risk missing out on a vital conversion.
+
+== Installation ==
+
+1. Upload the entire `Buddypress-paid-membership` directory to the `/wp-content/plugins/` directory (or `/wp-content/mu-plugins/` for automatic, site-wide activation on MU)
+2. Activate the plugin through the 'Plugins' menu in WordPress
+3. Configure the plugin under the Settings tab in Wordpress, supplying your Paypal details
+4. Make some money! But don't forget to give back to the Buddypress project, Wordpress and maybe hire us for some quality design work too.
+
+== Screenshots ==
+
+1. This is a screenshot of the Buddypress registration page once the plugin's implemented.
+2. This is a screenshot of the options panel inside Wordpress.
+
+== Changelog ==
+
+= 0.1 =
+* Initial release of the plugin
